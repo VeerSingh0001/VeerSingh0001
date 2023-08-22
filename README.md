@@ -2,7 +2,9 @@
 
 ###  
 
-https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner1.gif
+<div align="center">
+<img width="100%" height = "250px" src="[https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg](https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner5.gif)" alt="cover" />
+</div>
 
 ###
 
