@@ -26,3 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=veersingh0001&show_icons=true&locale=en&layout=compact" alt="veersingh0001" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=veersingh0001&show_icons=true&locale=en" alt="veersingh0001" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=veersingh0001&" alt="veersingh0001" /></p>
