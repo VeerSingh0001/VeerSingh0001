@@ -5,9 +5,10 @@
 <p align="left">🌱 I’m currently learning JavaScript<br><br>👨‍💻 All of my projects are available at https://github.com/VeerSingh0001?tab=repositories<br><br>💬 Ask me about HTML, CSS, JavaScript<br><br>📫 How to reach me singhdalveer247@gmail.com</p>
 
 ###
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=VeerSingh0001.VeerSingh0001&"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VeerSingh0001&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=VeerSingh0001&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&date_format=j M[ Y]" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VeerSingh0001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
