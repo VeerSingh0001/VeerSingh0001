@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">-🌱 I’m currently learning JavaScript<br><br>-👨‍💻 All of my projects are available at https://github.com/VeerSingh0001?tab=repositories<br><br>-💬 Ask me about HTML, CSS, JavaScript<br><br>- 📫 How to reach me <a href="singhdalveer247@gmail.com">singhdalveer247@gmail.com</a></p>
+<p align="left">-🌱 I’m currently learning JavaScript<br><br>-👨‍💻 All of my projects are available at https://github.com/VeerSingh0001?tab=repositories<br><br>-💬 Ask me about HTML, CSS, JavaScript<br><br>- 📫 How to reach me: <a href="singhdalveer247@gmail.com">singhdalveer247@gmail.com</a></p>
 
 ###
 
