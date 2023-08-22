@@ -15,6 +15,9 @@
 <h2 align="left">Stats:</h2>
 
 ###
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=VeerSingh0001.VeerSingh0001&"  />
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VeerSingh0001&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
