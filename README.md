@@ -1,5 +1,7 @@
-<h2 align="center">Hi 👋! My name is Dalveer Singh and I'm a Front-end web devloper from India.</h2>
-###
+<h2 align="center">Hi 👋! My name is Dalveer Singh and I'm a Front-end web devloper from India.</h2>  
+
+###  
+
 https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner1.gif
 
 ###
