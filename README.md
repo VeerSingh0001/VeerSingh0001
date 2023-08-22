@@ -6,7 +6,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=VeerSingh0001.VeerSingh0001&"  />
 </div>
 
