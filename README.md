@@ -1,4 +1,4 @@
-<h2 align="center">Hi <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'>! My name is Dalveer Singh and I'm a Front-end web devloper from India.</h2>  
+<h2 align="center">Hi 👋! My name is Dalveer Singh and I'm a Front-end web devloper from India.</h2>  
 
 ###  
 
