@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning JavaScript<br><br>👨‍💻 All of my projects are available at https://github.com/VeerSingh0001?tab=repositories<br><br>💬 Ask me about HTML, CSS, JavaScript<br><br>📫 How to reach me singhdalveer247@gmail.com<br><br>🌐 Socials:</p>
+<p align="left">🌱 I’m currently learning JavaScript<br><br>👨‍💻 All of my projects are available at https://github.com/VeerSingh0001?tab=repositories<br><br>💬 Ask me about HTML, CSS, JavaScript<br><br>📫 How to reach me singhdalveer247@gmail.com</p>
 
 ###
 
@@ -26,6 +26,10 @@
 
 ###
 
+<p align="left">🌐 Socials</p>
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/dalveer-singh-40526a1aa/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -42,8 +46,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/VeerSingh0001/VeerSingh0001/output/snake.svg" alt="Snake animation" />
 
