@@ -22,7 +22,6 @@
 
 <h2 align="left">Languages and Tools:</h2>
 
-<h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 
 ###
 
