@@ -5,7 +5,6 @@
 
 <img align="right" alt="coding" height ="200" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="VeerSingh0001"/>  
 
-![hippo](![image](https://github.com/VeerSingh0001/VeerSingh0001/assets/115876530/208a2c93-192b-435b-93f9-60047a778fec))
 
 - 🌱 I’m currently learning **Javascript**
 
