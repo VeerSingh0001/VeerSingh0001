@@ -24,4 +24,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=veersingh0001&show_icons=true&locale=en" alt="veersingh0001" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=veersingh0001&" alt="veersingh0001" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=veersingh0001&" alt="veersingh0001" /></p>  
+
+### 🔝 Top Contributed Repo  
+![](https://github-contributor-stats.vercel.app/api?username=VeerSingh0001&limit=5&theme=flat&combine_all_yearly_contributions=true)  
+
+### 📈 My GitHub Contributions  
+![Snake animation](href="https://github.com/VeerSingh0001/VeerSingh0001/blob/output/github-contribution-grid-snake.svg")
