@@ -1,6 +1,6 @@
 ![github-header-image](https://github.com/VeerSingh0001/VeerSingh0001/assets/115876530/02efe538-ec9d-4619-a0f5-86f37fd6a077)
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner5.gif" alt="VeerSingh0001"/>
+<img align="right" alt="coding" height ="350" width="550" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner5.gif" alt="VeerSingh0001"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veersingh0001&label=Profile%20views&color=0e75b6&style=flat" alt="veersingh0001" /> </p>
 
