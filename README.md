@@ -1,5 +1,5 @@
-![Header](![github-header-image](https://github.com/VeerSingh0001/VeerSingh0001/assets/115876530/707cb69d-d02e-4a42-8b78-15a478c019a2))
-)
+![Header](./[![github-header-image](https://github.com/VeerSingh0001/VeerSingh0001/assets/115876530/02efe538-ec9d-4619-a0f5-86f37fd6a077)
+])
 
 <h2 align="center">Hi 👋! My name is Dalveer Singh and I'm a Front-end web devloper from India.</h2>  
 
