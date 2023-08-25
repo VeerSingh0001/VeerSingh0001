@@ -4,7 +4,6 @@
 
 <img align="right" alt="coding" height ="200" width="400" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner5.gif" alt="VeerSingh0001"/>  
 
-<img align="right" alt="coding" height ="200" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmVxb3hpbGs4ajRzazJ4eHd2NTJ6cG10ZGp3b3Ixd2psMDVoNG05aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" alt="VeerSingh0001"/> 
 
 - 🌱 I’m currently learning **Javascript**
 
