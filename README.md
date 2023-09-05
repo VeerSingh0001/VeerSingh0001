@@ -29,5 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VeerSingh0001&show_icons=true&locale=en&theme=tokyonight" alt="VeerSingh0001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VeerSingh0001&theme=tokyonight" alt="VeerSingh0001" /></p>
-
-![Snake animation](https://github.com/VeerSingh0001/VeerSingh0001/blob/output/github-contribution-grid-snake.svg)
