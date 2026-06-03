@@ -1,4 +1,4 @@
-<img width="1792" height="592" alt="header_image" src="https://github.com/user-attachments/assets/adac95e3-c26a-4a24-98a3-e7327451942c" />
+<img width="1792" height="592" alt="header_image" src="https://github.com/user-attachments/assets/b1739325-326c-4161-83cb-f7e0f757bebb" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veersingh0001&label=Profile%20views&color=0e75b6&style=flat" alt="veersingh0001" /> </p>
@@ -77,8 +77,19 @@
 ---
 
 <h3 align="left">📊 Quick stats about me:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VeerSingh0001&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="VeerSingh0001" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VeerSingh0001&show_icons=true&locale=en&theme=tokyonight" alt="VeerSingh0001" /></p>
+<!-- GitHub Stats Badges (shields.io — always reliable) -->
+<p align="left">
+  <img src="https://img.shields.io/github/followers/VeerSingh0001?label=Followers&style=for-the-badge&color=0e75b6&logo=github" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/VeerSingh0001?label=Total%20Stars&style=for-the-badge&color=0e75b6&logo=github" alt="stars"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VeerSingh0001&theme=tokyonight" alt="VeerSingh0001" /></p>
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VeerSingh0001&theme=tokyo-night&hide_border=true" alt="VeerSingh0001 activity graph"/>
+</p>
+
+<!-- Profile Summary Cards -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VeerSingh0001&theme=tokyonight" alt="VeerSingh0001 profile summary"/>
+</p>
