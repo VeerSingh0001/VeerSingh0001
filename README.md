@@ -1,4 +1,5 @@
-![github-header-image](https://github.com/user-attachments/assets/156c099b-844b-4112-9cd9-47ef841c7d7e)
+<img width="1792" height="592" alt="header_image" src="https://github.com/user-attachments/assets/adac95e3-c26a-4a24-98a3-e7327451942c" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veersingh0001&label=Profile%20views&color=0e75b6&style=flat" alt="veersingh0001" /> </p>
 
